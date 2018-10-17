@@ -1,0 +1,31 @@
+.app-header{
+    h1{
+        margin: 2em 0 3em 0;
+        font-size: 5em;
+        font-weight: normal;
+        color: white;
+    }   
+    .fas.fa-angle-down{
+        position: absolute;
+        bottom: 1em;
+        left: 50%;
+        font-size: 50px;
+        color: white;
+        cursor: pointer;
+    }
+}
+.header-bg {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-backdrop{
+    overflow: hidden;
+    position: relative;
+    background: #00000080;
+}
+.app-company-name{
+    padding: 2em;
+    font-size:1.5em;
+    color: white;
+}

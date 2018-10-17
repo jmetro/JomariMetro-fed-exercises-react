@@ -1,0 +1,34 @@
+.App {
+  font-family: 'Lato', sans-serif;
+  color: gray;
+}
+
+.App-title {
+  font-size: 2em;
+  font-weight: normal;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.warning {
+  color: darken(red, 20%);
+  font-weight: bold;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.dd-logo {
+  height: 150px;
+}
+
